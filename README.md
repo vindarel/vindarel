@@ -2,6 +2,8 @@ Yes Common Lisp is nice: see [Python VS Common Lisp, workflow and ecosystem](ht
 
 Here's more: https://lisp-journey.gitlab.io/about/ 
 
+*Guys! I am creating a video course for CL, so you can learn it effectively, without hitting the roadblocks that I encountered. It's on the Udemy platform and you can get it with [this 50% discount](https://www.udemy.com/course/common-lisp-programming/?couponCode=HALF-50-CHRISTMAS21) (all December, 2021). Thanks!*
+
 
 <!--
 My hidden plan is to **make Common Lisp popular again**. For this I write on collaborative resources (I am a massive contributor of the [Cookbook](https://lispcookbook.github.io/cl-cookbook/)).
