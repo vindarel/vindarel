@@ -2,7 +2,7 @@ Yes Common Lisp is nice: see [Python VS Common Lisp, workflow and ecosystem](ht
 
 Here's more: https://lisp-journey.gitlab.io/about/ 
 
-*Guys! I am creating a video course for CL, so you can learn it effectively, without hitting all the roadblocks that I encountered. It's on the Udemy platform and you can get it with [this 40% discount](https://www.udemy.com/course/common-lisp-programming/?couponCode=068B12-LISP-JOURNEY). (If you are a patron, I can send you a free link) Thanks!*
+*Guys! [I am creating a video course for CL](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it effectively, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks!*
 
 
 <!--
