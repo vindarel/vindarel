@@ -1,6 +1,6 @@
 Yes Common Lisp is nice: see [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/).
 
-Here's more: https://lisp-journey.gitlab.io/about/ 
+Here's more: https://lisp-journey.gitlab.io/about/ and a new video: 🎥 [How to make requests to a REST API: Dexador, Jonathan, Shasht, Serapeum](https://www.youtube.com/watch?v=TAtwcBh1QLg), and we build a binary for the terminal. All this live coding in Emacs and SLIME.
 
 *Guys! [I am creating a video course for CL](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it effectively, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks!*
 
