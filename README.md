@@ -6,8 +6,7 @@ Here's more: https://lisp-journey.gitlab.io/ and a new video: 🎥 [How to make 
 
 *🚀 NEW! I uploaded 18 videos about MACROS on my course!*
 
-![](https://github.com/vindarel/common-lisp-course-in-videos/raw/master/announce.svg)
-
+[![](https://res.cloudinary.com/practicaldev/image/fetch/s--DDV7WML2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ep642zji6e3iuxcbe16v.png)](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358)
 <!--
 My hidden plan is to **make Common Lisp popular again**. For this I write on collaborative resources (I am a massive contributor of the [Cookbook](https://lispcookbook.github.io/cl-cookbook/)).
 
