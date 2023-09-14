@@ -2,10 +2,11 @@ Yes Common Lisp is nice: see [Python VS Common Lisp, workflow and ecosystem](ht
 
 Here's more: https://lisp-journey.gitlab.io/ and a new video: 🎥 [How to make requests to a REST API: Dexador, Jonathan, Shasht, Serapeum](https://www.youtube.com/watch?v=TAtwcBh1QLg), and we build a binary for the terminal. All this live coding in Emacs and SLIME.
 
-*🎥 Guys! [I am creating a video course for Common Lisp](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it effectively, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks!*
+*🎥 Guys! [I am creating a video course for Common Lisp](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it effectively, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks! [read more](https://github.com/vindarel/common-lisp-course-in-videos)*
 
 *🚀 NEW! I uploaded 18 videos about MACROS on my course!*
 
+![](https://github.com/vindarel/common-lisp-course-in-videos/raw/master/announce.svg)
 
 <!--
 My hidden plan is to **make Common Lisp popular again**. For this I write on collaborative resources (I am a massive contributor of the [Cookbook](https://lispcookbook.github.io/cl-cookbook/)).
