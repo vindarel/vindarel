@@ -2,9 +2,11 @@ Yes Common Lisp is nice: see [Python VS Common Lisp, workflow and ecosystem](ht
 
 Here's more: https://lisp-journey.gitlab.io/ and a new video: 🎥 [How to make requests to a REST API: Dexador, Jonathan, Shasht, Serapeum](https://www.youtube.com/watch?v=TAtwcBh1QLg), and we build a binary for the terminal. All this live coding in Emacs and SLIME.
 
-*🎥 Guys! [I am creating a video course for Common Lisp](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it effectively, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks! [read more](https://github.com/vindarel/common-lisp-course-in-videos)*
+*🎥 Guys! [I am creating a video course for Common Lisp](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it efficiently, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks! [read more](https://github.com/vindarel/common-lisp-course-in-videos)*
 
-*🚀 NEW! I uploaded 18 videos about MACROS on my course!*
+*🚀 NEW! I uploaded 17 videos about MACROS on my course!* 
+
+⭐ 🎄 Christmas coupon: LISPY-XMAS2023
 
 [![](https://res.cloudinary.com/practicaldev/image/fetch/s--DDV7WML2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ep642zji6e3iuxcbe16v.png)](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358)
 <!--
