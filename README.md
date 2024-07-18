@@ -4,9 +4,9 @@ Here's more: https://lisp-journey.gitlab.io/ and a new video: 🎥 [How to make 
 
 *🎥 Guys! [I am creating a video course for Common Lisp](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358), so you can learn it efficiently, without hitting all the roadblocks that I encountered. It's on the Udemy platform. I can send a free link to my patrons, or if you are a student. Thanks! [read more](https://github.com/vindarel/common-lisp-course-in-videos)*
 
-*🚀 NEW! I uploaded 17 videos about MACROS on my course!* 
+*🚀 NEW! I uploaded 8 videos about the CLOS (CL Object System) on my course. More to come after a short summer break.* 
 
-⭐ 🎄 Christmas coupon: LISPY-XMAS2023
+⭐ 🏖️ July coupon: CLOS-EXCLUSIVITY
 
 blog post 2024/03: [Oh no… I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/).
 
