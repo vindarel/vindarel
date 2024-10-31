@@ -1,3 +1,8 @@
+| [![](https://raw.githubusercontent.com/tarsius/tarsius/master/img/file-text.svg) lisp-journey](https://lisp-journey.gitlab.io/) | [![](https://raw.githubusercontent.com/tarsius/tarsius/master/img/cloud.svg) Mastodon](https://framapiaf.org/@vindarel) | [![](https://raw.githubusercontent.com/tarsius/tarsius/master/img/heart.svg) Github Sponsors](https://github.com/sponsors/vindarel) | [🎥 Youtube](https://www.youtube.com/@vindarel) |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+
+<br/>
+
 Yes Common Lisp is nice: see [Python VS Common Lisp, workflow and ecosystem](https://lisp-journey.gitlab.io/pythonvslisp/).
 
 Here's more: https://lisp-journey.gitlab.io/ and a new video: 🎥 [How to make requests to a REST API: Dexador, Jonathan, Shasht, Serapeum](https://www.youtube.com/watch?v=TAtwcBh1QLg), and we build a binary for the terminal. All this live coding in Emacs and SLIME.
